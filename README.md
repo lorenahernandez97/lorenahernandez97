@@ -21,11 +21,11 @@
   ## Proyectos 📁
   Proximamente compartiré mis proyectos y trabajos aquí
 
-  ## Contacto 📬
-  - GitHub
-  https://github.com/lorenahernandez97/lorenahernandez97
-  - Correo
-  lorenahernandez1997@gmail.com
-- [LINKEDIN](www.linkedin.com/in/anyi-lorena-hernández-contreras-3a7370b0)
-- ![Linkedin](https://co.linkedin.com)
+  ## 📬 Contacto a solo un clip 👆🏼
+  - [GitHub, ya tu sabes como funciona](https://github.com/lorenahernandez97/lorenahernandez97) 😺
+  - [Correo para que me puedas contactar](lorenahernandez1997@gmail.com) 📧
+- [Linkedin para que veas mi perfil profesional](www.linkedin.com/in/anyi-lorena-hernández-contreras-3a7370b0) 🛠️
+
+## Gracias por ver mi perfil... 🫷🏼
+
 
