@@ -24,7 +24,7 @@
   ## 📬 Contacto a solo un clip 👆🏼
   - [GitHub, ya tu sabes como funciona](https://github.com/lorenahernandez97/lorenahernandez97) 😺
   - [Correo para que me puedas contactar](lorenahernandez1997@gmail.com) 📧
-- [Linkedin para que veas mi perfil profesional]([www.linkedin.com/in/anyi-lorena-hernández-contreras-3a7370b0](https://www.linkedin.com/in/anyi-lorena-hern%C3%A1ndez-contreras-3a7370b0/?skipRedirect=true)) 🛠️
+- [Linkedin para que veas mi perfil profesional](https://www.linkedin.com/in/anyi-lorena-hern%C3%A1ndez-contreras-3a7370b0/?skipRedirect=true) 🛠️
 
 ## Gracias por ver mi perfil... 🫷🏼
 
