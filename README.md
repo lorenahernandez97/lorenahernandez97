@@ -20,4 +20,5 @@
   ## Contacto 📬
   GitHub
   https://github.com/lorenahernandez97/lorenahernandez97
+  Correo
   lorenahernandez1997@gmail.com
