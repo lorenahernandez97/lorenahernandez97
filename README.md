@@ -9,16 +9,23 @@
 - 🗒️ Me  gusta aprender y desarrollar nuevos proyectos
 
 ## Tecnologías y herramientas 🛠️
-- Git
-- Git Hub
-- Visual Code
-- Herramientas ofimáticas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
   ## Proyectos 📁
   Proximamente compartiré mis proyectos y trabajos aquí
 
   ## Contacto 📬
-  GitHub
+  - GitHub
   https://github.com/lorenahernandez97/lorenahernandez97
-  Correo
+  - Correo
   lorenahernandez1997@gmail.com
+- [LINKEDIN](www.linkedin.com/in/anyi-lorena-hernández-contreras-3a7370b0)
+- ![Linkedin](https://co.linkedin.com)
+
