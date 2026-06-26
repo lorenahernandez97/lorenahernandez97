@@ -1,3 +1,4 @@
+![Bienvenidos](BIENVENIDOS.gif)
 # ¡Hola! 👋🏽 Soy Lorena
 💻 Estudiante y apasionada por la tecnología, el desarrollo de software y el aprendizaje continuo.
 
